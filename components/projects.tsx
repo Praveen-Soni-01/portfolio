@@ -31,7 +31,7 @@ const projects = [
     image: "/projects/project-1.png",
     liveSite: "https://verse-trail.vercel.app/",
     github: "https://github.com/Annonymous-001/Verse-Trail",
-    techStack: ["Cloudflare", "Next", "Postgres", "Prisma", "Tailwind"],
+    techStack: ["Cloudflare", "Next", "Postgres", "Prisma", "Tailwind","TypeScript"],
   },
   {
     title: "Helix Institute - UI/UX Redesign",
@@ -71,7 +71,7 @@ const projects = [
     image: "/projects/lustra.png",
     liveSite: "https://lustra.co.in/",
     github: "",
-    techStack: ["Wordpress", "Shopify",],
+    techStack: ["Wordpress", "Shopify","Tailwind"],
   }
 ];
 
