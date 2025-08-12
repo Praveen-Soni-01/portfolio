@@ -21,7 +21,7 @@ const projects = [
     title: "Agency Management System",
     description: "A role-based system for Admin, Project Manager, Team Member, and Client with project tracking & assignments.",
     image: "/projects/agency-management.png",
-    liveSite: "",
+    liveSite: "https://agency-management-portal.vercel.app/",
     github: "https://github.com/Annonymous-001/agency_management_portal",
     techStack: ["Next", "TypeScript", "Prisma", "Postgres","Tailwind","NextAuth"],
   },
