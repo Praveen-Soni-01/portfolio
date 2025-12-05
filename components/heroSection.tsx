@@ -40,7 +40,7 @@ export function HeroSection() {
           pointer-events-none z-10 whitespace-pre-wrap 
           bg-gradient-to-r from-[#4f7dfd] to-[#b18cff] 
           bg-clip-text text-transparent
-          text-center text-7xl font-bold leading-none tracking-tighter
+          text-center text-7xl font-medium leading-none tracking-tighter
         "
       >
         Praveen Soni
