@@ -68,17 +68,17 @@ const DATA = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/Annonymous-001",
+        url: "https://github.com/Praveen-Soni-01",
         icon: Icons.github,
       },
-      X: {
-        name: "X",
-        url: "https://x.com/_Nitin_Swami_",
-        icon: Icons.x,
+      LinkedIn: {
+        name: "LinkedIn",
+        url: "https://linkedin.com/in/praveen-soni-9b927b320",
+        icon: Icons.linkedin,
       },
       email: {
         name: "Send Email",
-        url: "mailto:nitinswami12577@gmail.com",
+        url: "mailto:krishn83075@gmail.com",
         icon: Icons.email,
       },
     },
